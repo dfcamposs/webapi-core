@@ -1,0 +1,6 @@
+C:\Users\david.DCTECNO\Desktop\Projects\pessoal\dotnet\webapi-core\obj\Debug\netcoreapp3.1\webapi-core.csprojAssemblyReference.cache
+C:\Users\david.DCTECNO\Desktop\Projects\pessoal\dotnet\webapi-core\obj\Debug\netcoreapp3.1\staticwebassets\webapi-core.StaticWebAssets.Manifest.cache
+C:\Users\david.DCTECNO\Desktop\Projects\pessoal\dotnet\webapi-core\obj\Debug\netcoreapp3.1\staticwebassets\webapi-core.StaticWebAssets.xml
+C:\Users\david.DCTECNO\Desktop\Projects\pessoal\dotnet\webapi-core\obj\Debug\netcoreapp3.1\webapi-core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\david.DCTECNO\Desktop\Projects\pessoal\dotnet\webapi-core\obj\Debug\netcoreapp3.1\webapi-core.AssemblyInfoInputs.cache
+C:\Users\david.DCTECNO\Desktop\Projects\pessoal\dotnet\webapi-core\obj\Debug\netcoreapp3.1\webapi-core.AssemblyInfo.cs
